@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+venv/
+anomaly_log.csv
+reports/
